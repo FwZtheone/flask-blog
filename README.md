@@ -1,5 +1,7 @@
 # flask-blog
 
+# Description
+A simple application with flask 2.X, with login , auth , sqlite3
 
 # Home
 ![image](https://user-images.githubusercontent.com/47481316/153389440-22a03f71-1b80-4385-a7e8-aac08ee7c679.png)
@@ -18,3 +20,9 @@
 
 # Update a post
 ![image](https://user-images.githubusercontent.com/47481316/153389932-c87d8b52-48be-4684-895a-9aaf2ee7dc59.png)
+
+## install 
+- pip install 
+- set FLASK_APP=flaskr
+- set FLASK_DEV=development
+- flask run 
