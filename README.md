@@ -26,3 +26,5 @@ A simple application with flask 2.X, with login , auth , sqlite3
 - set FLASK_APP=flaskr
 - set FLASK_DEV=development
 - flask run 
+
+# petit test
